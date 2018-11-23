@@ -33,3 +33,9 @@ pandas を使ってテクニカル分析
 ## 5. Fundamentals
 
 ## 6. ポートフォリオ最適化
+
+
+## 今後使うかもツール
+
+ [Google Colaboratory の 90分ルールを回避したい。 - Qiita](https://qiita.com/Gimina_Graph/items/4bdf3e3c3658eeb0eba8)
+ 
