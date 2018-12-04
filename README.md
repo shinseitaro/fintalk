@@ -18,19 +18,11 @@ pandas を使ってテクニカル分析
     + MACD
     + 株価カイリ率
 
++ DataFrame を使ってシュミレーションする方法
 
 ## 2. テクニカル分析の元となる考え方
 
-+ 回帰 Positive returns.
- Leverage between 0.8x-1.1x.
- Low position concentration.
- Low beta-to-SPY.
- Mid-range turnover.
- Long and short positions.
- Trades liquid stocks.
- Low exposure to sector risk.
- Low exposure to style risk.
- Place orders with Optimize API.
++ 回帰
 
 ## 3. 統計学的アプローチ
 
@@ -50,4 +42,3 @@ pandas を使ってテクニカル分析
 ## 今後使うかもツール
 
  [Google Colaboratory の 90分ルールを回避したい。 - Qiita](https://qiita.com/Gimina_Graph/items/4bdf3e3c3658eeb0eba8)
- 
